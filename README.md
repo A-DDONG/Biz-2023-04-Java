@@ -29,8 +29,8 @@ git init
 7. local Repository 에 보관된 압축된 데이터를
 원격 Repository 로 push : `git push -u origin master`
 
-- 마이너스 기호 사용 시
-* 별표 기호 사용 시
+- 마이너스 기호 사용 시 이렇게 표기됨
+* 별표 기호 사용 시 이렇게 표기됨
 
 ```bash
 git init
